@@ -1,0 +1,27 @@
+.topo {
+    background-color: #009edb;
+    padding: 10px;
+    padding-left: 30px;
+    margin: 50px;
+    font: bold; 
+    color: white;
+}
+
+.conteudo {
+    padding: 10px;
+    padding-left: 30px;
+    margin: 50px;
+    font: bold; 
+}
+
+.site {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+@media screen and (min-width: 768px) { 
+    .topo {
+            }
+    .conteudo {
+    }
+  }
